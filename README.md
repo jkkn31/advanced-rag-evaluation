@@ -1,6 +1,6 @@
 # RAG Pipeline: Evaluating Metrics and Guardrailing Efficiency
 
-* Video Walkthrough - 
+* Video Walkthrough - https://youtu.be/U4Q4UmGuz48
 
 ## Overview
 
