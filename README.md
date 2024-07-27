@@ -80,7 +80,19 @@ pip install trulens_eval chromadb openai llama-index
 
 ## Results
 
-- **Filtered Context RAG Model:** Achieved improved context relevance and performance metrics compared to the baseline RAG model.
+**Filtered Context RAG Model:** Achieved improved context relevance and performance metrics compared to the baseline RAG model.
+
+- Before Applying the Feedbacks:
+
+  <img width="464" alt="image" src="https://github.com/user-attachments/assets/397cc61a-0b7f-4c8a-ae23-a8775d5e9906">
+
+- After Applying the Feedback and Filtering the Context:
+  
+  <img width="521" alt="image" src="https://github.com/user-attachments/assets/139f3dbf-f70c-4c6e-8c3d-700c0e756158">
+
+- Overall Performance of the Model:
+  ![4658](https://github.com/user-attachments/assets/0daa3173-a56a-4d13-877e-b4ca3a1b24ed)
+
 
 ## Conclusion
 
