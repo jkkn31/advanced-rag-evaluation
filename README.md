@@ -1,6 +1,8 @@
 # RAG Pipeline: Evaluating Metrics and Guardrailing Efficiency
 
 * Video Walkthrough - https://youtu.be/U4Q4UmGuz48
+* Documentation Report (PDF)- https://github.com/jkkn31/rag-pipeline-evaluation/blob/main/rag-pipeline-evaluation.pdf
+* Notebook - https://github.com/jkkn31/rag-pipeline-evaluation/blob/main/notebooks/RAG-Evaluation-Metrics.ipynb
 
 ## Overview
 
